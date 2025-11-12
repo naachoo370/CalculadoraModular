@@ -26,12 +26,4 @@ int multiplicar(int a, int b);
  */
 int dividir(int a, int b);
 
-/**
- * @brief Eleva una base a un exponente entero.
- * @param base número base.
- * @param exponente exponente entero positivo.
- * @return resultado de base^exponente.
- */
-int potencia(int base, int exponente);
-
 #endif
